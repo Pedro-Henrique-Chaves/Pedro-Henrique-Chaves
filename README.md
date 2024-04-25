@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-Henrique-Chaves
 - 👀 I’m interested in create some stuffs
 - 🌱 I’m currently learning godot & kotlin
-- 📫 How to reach me just look behind you >:)
+- 📫 How to reach me: just look behind you >:)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i know make any kond of food
