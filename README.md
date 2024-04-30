@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning godot & kotlin
 - 📫 How to reach me: just look behind you >:)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: i know make any kond of food
+- ⚡ Fun fact: i know make any kind of food
